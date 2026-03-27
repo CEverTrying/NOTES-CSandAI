@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3514e3d201ecbb09",
+    "type": "split",
+    "children": [
+      {
+        "id": "e32a50eaa106d995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a8153e7c2c39e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS&AI学习/程设.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "程设"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "156e8e02459524d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5fa391270ee9b7e1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "151b8e7503a73e41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "25fc0b95e1f952dd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "b284ae7de9d78841",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "b8af80dd105e5d2e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7bd2af6fa42b72d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d7998abb38c86ef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CS&AI学习/程设.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "8bf05dda97c769df",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "AI学习/人工智能引论.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "acd768cddca07910",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "AI学习/人工智能引论.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "db6ceac121268b69",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b5a8153e7c2c39e3",
+  "lastOpenFiles": [
+    "CS&AI学习/面向对象.md",
+    "CS&AI学习/CV导.md",
+    "CS&AI学习/程设.md",
+    "CS&AI学习/CS中的数学.md",
+    "CS&AI学习/image/linefitting.jpg",
+    "CS&AI学习/博弈（game）.md",
+    "CS&AI学习/人工智能引论笔记/搜索.md",
+    "CS&AI学习/人工智能引论.md",
+    "未命名.md",
+    "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
+    "CS&AI学习/image/CDCL.jpg",
+    "CS&AI学习/image/algo1.jpg",
+    "CS&AI学习/image/filter-example.png",
+    "CS&AI学习/image/bs.png",
+    "其他课程/国社上.md",
+    "CS&AI学习/image/K.png",
+    "CS&AI学习/程设.sync-conflict-20260311-213006-FF3QXEW.md",
+    "CS&AI学习/Python库.md",
+    "未命名",
+    "CS&AI学习/人工智能引论笔记",
+    "CS&AI学习/数据结构.md",
+    "其他课程",
+    "CS&AI学习/image/algo.jpg",
+    "().md",
+    "CS&AI学习/image/ds1.png",
+    "AI学习/CS中的数学.md",
+    "CS&AI学习/image/comparison.png",
+    "CS&AI学习/Excalidraw/Drawing 2026-03-02 17.41.54.excalidraw.md",
+    "CS&AI学习/111.zip",
+    "CS&AI学习/image",
+    "CS&AI学习/Excalidraw",
+    "CS&AI学习",
+    "AI学习/CSP(Constraint Satisfaction Problems).md",
+    "AI学习/人工智能引论.md",
+    "AI学习/CPS(Constraint Satisfaction Problems).md",
+    "AI学习/未命名.md",
+    "AI学习/搜索.md",
+    "课程/课程安排.md",
+    "课程/课程安排",
+    "课程",
+    "AI学习/数据结构.md",
+    "AI学习/数据结构.sync-conflict-20260302-232004-RIY3QVG.md",
+    "AI学习/111.zip",
+    "AI学习/Excalidraw/Drawing 2026-03-02 17.41.54.excalidraw.md"
+  ]
+}
