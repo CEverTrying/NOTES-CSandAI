@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/程设.md",
-                "mode": "preview",
+                "file": "CS&AI学习/机器学习.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "程设"
+              "title": "机器学习"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CS&AI学习/程设.md",
+            "file": "CS&AI学习/机器学习.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -182,12 +183,15 @@
   },
   "active": "b5a8153e7c2c39e3",
   "lastOpenFiles": [
+    "CS&AI学习/人工智能引论笔记/博弈（game）.md",
+    "CS&AI学习/机器学习.md",
+    "CS&AI学习/MDPs.md",
+    "其他课程/国社上.md",
+    "CS&AI学习/程设.md",
     "CS&AI学习/面向对象.md",
     "CS&AI学习/CV导.md",
-    "CS&AI学习/程设.md",
     "CS&AI学习/CS中的数学.md",
     "CS&AI学习/image/linefitting.jpg",
-    "CS&AI学习/博弈（game）.md",
     "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/人工智能引论.md",
     "未命名.md",
@@ -196,7 +200,6 @@
     "CS&AI学习/image/algo1.jpg",
     "CS&AI学习/image/filter-example.png",
     "CS&AI学习/image/bs.png",
-    "其他课程/国社上.md",
     "CS&AI学习/image/K.png",
     "CS&AI学习/程设.sync-conflict-20260311-213006-FF3QXEW.md",
     "CS&AI学习/Python库.md",
@@ -224,7 +227,6 @@
     "课程",
     "AI学习/数据结构.md",
     "AI学习/数据结构.sync-conflict-20260302-232004-RIY3QVG.md",
-    "AI学习/111.zip",
-    "AI学习/Excalidraw/Drawing 2026-03-02 17.41.54.excalidraw.md"
+    "AI学习/111.zip"
   ]
 }
