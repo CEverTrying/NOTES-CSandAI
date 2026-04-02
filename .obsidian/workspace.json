@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
-                "mode": "preview",
+                "file": "CS&AI学习/MDPs.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "搜索"
+              "title": "MDPs"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ecf4caaff0dbfaf",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
+                "file": "CS&AI学习/MDPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "搜索 的反向链接列表"
+              "title": "MDPs 的反向链接列表"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
+                "file": "CS&AI学习/MDPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "搜索 的出链列表"
+              "title": "MDPs 的出链列表"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
+                "file": "CS&AI学习/MDPs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "搜索 的大纲"
+              "title": "MDPs 的大纲"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md"
+                "file": "CS&AI学习/MDPs.md"
               },
               "icon": "lucide-info",
-              "title": "搜索的笔记属性"
+              "title": "MDPs的笔记属性"
             }
           },
           {
@@ -221,6 +222,9 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/image/race-car.png",
+    "CS&AI学习/image/race-car.png.crdownload",
+    "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/CV导.md",
     "CS&AI学习/机器学习.md",
     "CS&AI学习/程设.md",
@@ -233,7 +237,6 @@
     "其他课程/国社上.sync-conflict-20260330-213742-RIY3QVG.md",
     "其他课程/~syncthing~国社上.sync-conflict-20260330-213742-RIY3QVG.md.tmp",
     "CS&AI学习/image/algo.jpg",
-    "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/image/K.png",
     "README.md",
     "新建 文本文档.txt",
@@ -252,7 +255,6 @@
     "CS&AI学习/~syncthing~CS中的数学.md.tmp",
     "().md",
     "CS&AI学习/人工智能引论笔记",
-    "CS&AI学习/image/~syncthing~algo.jpg.tmp",
     "CS&AI学习/image/随机排列.png",
     "CS&AI学习/image/屏幕截图 2026-03-05 174344.png",
     "CS&AI学习/image/ds1.png",
