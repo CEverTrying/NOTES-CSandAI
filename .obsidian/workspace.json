@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/面向对象.md",
+                "file": "CS&AI学习/机器学习.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "面向对象"
+              "title": "机器学习"
             }
           }
         ]
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +221,17 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/~syncthing~程设.md.tmp",
+    "CS&AI学习/数据结构.md",
+    "CS&AI学习/人工智能引论.md",
+    "CS&AI学习/程设.md",
+    "CS&AI学习/面向对象.md",
     "CS&AI学习/image/bs.png",
     "其他课程/国社上.md",
     "其他课程/国社上.sync-conflict-20260330-213742-RIY3QVG.md",
     "其他课程/~syncthing~国社上.sync-conflict-20260330-213742-RIY3QVG.md.tmp",
     "CS&AI学习/image/algo.jpg",
     "CS&AI学习/人工智能引论笔记/搜索.md",
-    "CS&AI学习/程设.md",
     "CS&AI学习/image/K.png",
     "README.md",
     "CS&AI学习/CV导.md",
@@ -234,11 +239,8 @@
     "CS&AI学习/notttte.zip",
     "CS&AI学习/博弈（game）.zip",
     "CS&AI学习/博弈（game）.md",
-    "CS&AI学习/人工智能引论.md",
     "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
     "CS&AI学习/CS中的数学.md",
-    "CS&AI学习/数据结构.md",
-    "CS&AI学习/面向对象.md",
     "CS&AI学习/~syncthing~博弈（game）.md.tmp",
     "CS&AI学习/人工智能引论笔记/~syncthing~搜索.md.tmp",
     "CS&AI学习/CSP(Constraint Satisfaction Problems).md",
@@ -247,7 +249,6 @@
     "CS&AI学习/image/屏幕截图 2026-03-17 155455.png",
     "CS&AI学习/程设.sync-conflict-20260311-213006-FF3QXEW.md",
     "CS&AI学习/~syncthing~CS中的数学.md.tmp",
-    "CS&AI学习/~syncthing~程设.md.tmp",
     "().md",
     "CS&AI学习/人工智能引论笔记",
     "CS&AI学习/image/~syncthing~algo.jpg.tmp",
