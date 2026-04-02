@@ -85,30 +85,8 @@
     "type": "split",
     "children": [
       {
-        "id": "46d03a92a6ab7a3e",
-        "type": "tabs",
-        "dimension": 19.607843137254903,
-        "children": [
-          {
-            "id": "4137dacfb6c3a381",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "搜索 的出链列表"
-            }
-          }
-        ]
-      },
-      {
         "id": "54a55f430799fe66",
         "type": "tabs",
-        "dimension": 80.3921568627451,
         "children": [
           {
             "id": "48dcab4f3cdf34cb",
@@ -127,6 +105,20 @@
               },
               "icon": "links-coming-in",
               "title": "搜索 的反向链接列表"
+            }
+          },
+          {
+            "id": "4137dacfb6c3a381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "搜索 的出链列表"
             }
           },
           {
@@ -164,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI学习/搜索.md",
+                "file": "CS&AI学习/人工智能引论笔记/搜索.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS&AI学习/程设.md"
+                "file": "CS&AI学习/人工智能引论笔记/搜索.md"
               },
               "icon": "lucide-info",
-              "title": "程设的笔记属性"
+              "title": "搜索的笔记属性"
             }
           },
           {
@@ -206,11 +198,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4137dacfb6c3a381",
+  "active": "557c4e628455cb14",
   "lastOpenFiles": [
     "CS&AI学习/CV导.md",
     "CS&AI学习/机器学习.md",
