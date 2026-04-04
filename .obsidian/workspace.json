@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/CV导.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CV导"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS&AI学习/CV导.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CV导 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -221,12 +221,12 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/CV导.md",
     "CS&AI学习/~syncthing~CV导.md.tmp",
     "CS&AI学习/~syncthing~MDPs.md.tmp",
     "CS&AI学习/~syncthing~程设.md.tmp",
     "CS&AI学习/~syncthing~机器学习.md.tmp",
     "CS&AI学习/MDPs.md",
-    "CS&AI学习/CV导.md",
     "CS&AI学习/CS中的数学.md",
     "CS&AI学习/数据结构.md",
     "其他课程/国社上.md",
@@ -250,7 +250,6 @@
     "CS&AI学习/博弈（game）.zip",
     "CS&AI学习/博弈（game）.md",
     "CS&AI学习/~syncthing~博弈（game）.md.tmp",
-    "CS&AI学习/人工智能引论笔记/~syncthing~搜索.md.tmp",
     "CS&AI学习/CSP(Constraint Satisfaction Problems).md",
     "课程/课程安排.md",
     "CS&AI学习/image/filter-example.png",
