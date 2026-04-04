@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/MDPs.md",
+                "file": "CS&AI学习/CV导.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MDPs"
+              "title": "CV导"
             }
           }
         ]
@@ -221,12 +221,12 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/MDPs.md",
     "CS&AI学习/CV导.md",
     "CS&AI学习/CS中的数学.md",
     "CS&AI学习/数据结构.md",
     "其他课程/国社上.md",
     "README.md",
-    "CS&AI学习/MDPs.md",
     "CS&AI学习/人工智能引论.md",
     "CS&AI学习/面向对象.md",
     "CS&AI学习/机器学习.md",
