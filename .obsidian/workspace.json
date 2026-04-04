@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS&AI学习/MDPs.md",
+                "file": "CS&AI学习/CV导.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MDPs 的大纲"
+              "title": "CV导 的大纲"
             }
           },
           {
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -221,6 +221,10 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/~syncthing~CV导.md.tmp",
+    "CS&AI学习/~syncthing~MDPs.md.tmp",
+    "CS&AI学习/~syncthing~程设.md.tmp",
+    "CS&AI学习/~syncthing~机器学习.md.tmp",
     "CS&AI学习/MDPs.md",
     "CS&AI学习/CV导.md",
     "CS&AI学习/CS中的数学.md",
@@ -236,7 +240,6 @@
     "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/image/race-car.png",
     "CS&AI学习/image/race-car.png.crdownload",
-    "CS&AI学习/~syncthing~程设.md.tmp",
     "CS&AI学习/image/bs.png",
     "其他课程/国社上.sync-conflict-20260330-213742-RIY3QVG.md",
     "其他课程/~syncthing~国社上.sync-conflict-20260330-213742-RIY3QVG.md.tmp",
@@ -253,9 +256,7 @@
     "CS&AI学习/image/filter-example.png",
     "CS&AI学习/image/屏幕截图 2026-03-17 155455.png",
     "CS&AI学习/程设.sync-conflict-20260311-213006-FF3QXEW.md",
-    "CS&AI学习/~syncthing~CS中的数学.md.tmp",
     "().md",
-    "CS&AI学习/人工智能引论笔记",
     "CS&AI学习/image/随机排列.png",
     "CS&AI学习/image/屏幕截图 2026-03-05 174344.png",
     "CS&AI学习/image/ds1.png",
