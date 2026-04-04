@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/CV导.md",
+                "file": "其他课程/国社上.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CV导"
+              "title": "国社上"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS&AI学习/CV导.md",
+                "file": "其他课程/国社上.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CV导 的大纲"
+              "title": "国社上 的大纲"
             }
           },
           {
@@ -221,23 +221,23 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
-    "CS&AI学习/面向对象.md",
-    "CS&AI学习/数据结构.md",
-    "CS&AI学习/人工智能引论.md",
+    "CS&AI学习/程设.md",
     "CS&AI学习/CS中的数学.md",
+    "CS&AI学习/数据结构.md",
+    "CS&AI学习/面向对象.md",
     "CS&AI学习/CV导.md",
+    "CS&AI学习/MDPs.md",
+    "CS&AI学习/机器学习.md",
+    "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
+    "CS&AI学习/人工智能引论笔记/搜索.md",
+    "CS&AI学习/人工智能引论笔记/博弈（game）.md",
+    "CS&AI学习/人工智能引论.md",
     "README.md",
     "CS&AI学习/~syncthing~CV导.md.tmp",
     "CS&AI学习/~syncthing~MDPs.md.tmp",
     "CS&AI学习/~syncthing~程设.md.tmp",
     "CS&AI学习/~syncthing~机器学习.md.tmp",
-    "CS&AI学习/MDPs.md",
     "其他课程/国社上.md",
-    "CS&AI学习/机器学习.md",
-    "CS&AI学习/程设.md",
-    "CS&AI学习/人工智能引论笔记/博弈（game）.md",
-    "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
-    "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/image/race-car.png",
     "CS&AI学习/image/race-car.png.crdownload",
     "CS&AI学习/image/bs.png",
