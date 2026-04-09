@@ -23,3 +23,7 @@ MDPs指的是马尔可夫决策过程（Markov Decision Processes）。具有**M
 **折扣**在于给t时刻得到的收益乘以一个折扣$\gamma^t（0<\gamma<1）$,这样随着时间变化，收益逐渐减小，目标就变成了最大化**折扣收益（discounted utility）**，数学上可以证明这个级数收敛，结果$\leq\frac{R_{max}}{1-\gamma}$
 
 ## The Bellman Equation
+
+- $V^*(s)$：从s状态出发，一个智能体可以获得的最好的效益
+- $Q^*(s,a)$：从s状态做动作a，一个智能体可以获得的最好的效益
+- $V^*(s)=max_{a}\{Q^*(s,a)\}$
