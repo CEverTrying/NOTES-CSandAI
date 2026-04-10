@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/程设.md",
+                "file": "CS&AI学习/CV导.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "程设"
+              "title": "CV导"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8ecf4caaff0dbfaf",
@@ -222,9 +221,10 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/~syncthing~CV导.md.tmp",
+    "CS&AI学习/程设.md",
     "CS&AI学习/人工智能引论.md",
     "CS&AI学习/CV导.md",
-    "CS&AI学习/程设.md",
     "CS&AI学习/人工智能引论笔记/搜索.md",
     "CS&AI学习/人工智能引论笔记/博弈（game）.md",
     "其他课程/国社上.md",
@@ -235,7 +235,6 @@
     "CS&AI学习/机器学习.md",
     "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
     "README.md",
-    "CS&AI学习/~syncthing~CV导.md.tmp",
     "CS&AI学习/~syncthing~MDPs.md.tmp",
     "CS&AI学习/~syncthing~程设.md.tmp",
     "CS&AI学习/~syncthing~机器学习.md.tmp",
