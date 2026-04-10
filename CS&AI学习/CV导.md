@@ -207,8 +207,16 @@ Mini-batch SGD
  underffiting的解决办法是增加层数（但是增加层数会出现很多问题）
 
 ##### ICS&BN
-当模型的层数不断增加时，就会出现==ICS（）的问题
+当模型的层数不断增加时，就会出现==ICS（Internal Covariate Shift）的问题==：前层的参数不断变化导致输出的数据的**分布**（attribution）不断变化，后面的层很难适应这种变化，导致学习效率大幅下降，训练变慢、难收敛，甚至出现梯度消失 / 爆炸。
 
+应对这个问题，提出了==BN（Batch Normalization）==（然而实际上BN的作用不在于修复ICS*hhh*）。BN的主要内容如下：
+- 输入x：N\*D,其中，N是Batch size，D是输入的神经点个数/channel数
+- 计算的公式：
+	- 计算一个batch中**不同样本一种特征数据**的均值，D维： $$\mu_B = \frac{1}{N}\sum_{i=1}^N x_i$$
+	- 计算同上数据的方差，D维：$$\sigma_B^2 = \frac{1}{N}\sum_{i=1}^N (x_i - \mu_B)^2$$
+	- 让数据标准化，这里的**epsilon是为了防止方差为0或太小导致计算数字爆炸**，X\*D维：$$\hat{x}_i = \frac{x_i - \mu_B}{\sqrt{\sigma_B^2 + \epsilon}}$$
+	- 这里考虑到**数据的方差和均值本身也有意义**，就设置了两个可以训练的参数gamma和beta，结果X\*D维：$$y_i = \gamma \hat{x}_i + \beta$$
+- 这里一个问题是：当进行测试时，按以上策略**计算sigma和mu的结果受batch中其他样本的影响**，这很不应该，因此设置了专门的==Eval mode==（训练是==Train mode==），此时的sigma和mu来自于**之前训练的数据的统计结果**（这样在测试时BN实际上是**线性层**）（但是这就回出现train和eval不匹配的情况，**在数据比较多时影响不大**）（这就引出了layer norm，instance norm，group norm）
 
 ### 名词解释
 - ==iteration==：一个batch的一次梯度下降
