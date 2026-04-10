@@ -178,7 +178,7 @@ sigmoid：$\frac{1}{1+e^{-x}}$,问题在于当x比较大和比较小时，函数
 在多次池化之后，数据已经很小了，这时使用和ANN一样的方法，多次FC-ReLU
 
 ### 总流程
-总体流程是：\[(CONV-BN-RELU)\*N-POOL?]\*M-(FC-BN-RELU)\*K-FC-Softm ax
+总体流程是：\[(CONV-BN-RELU)\*N-POOL?]\*M-(FC-BN-RELU)\*K-FC-Softmax（**最后一步没有BN**)
 
 ### Training
 Mini-batch SGD
