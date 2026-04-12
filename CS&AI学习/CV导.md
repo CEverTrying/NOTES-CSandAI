@@ -216,7 +216,15 @@ Mini-batch SGD
 	- 计算同上数据的方差，D维：$$\sigma_B^2 = \frac{1}{N}\sum_{i=1}^N (x_i - \mu_B)^2$$
 	- 让数据标准化，这里的**epsilon是为了防止方差为0或太小导致计算数字爆炸**，X\*D维：$$\hat{x}_i = \frac{x_i - \mu_B}{\sqrt{\sigma_B^2 + \epsilon}}$$
 	- 这里考虑到**数据的方差和均值本身也有意义**，就设置了两个可以训练的参数gamma和beta，结果X\*D维：$$y_i = \gamma \hat{x}_i + \beta$$
-- 这里一个问题是：当进行测试时，按以上策略**计算sigma和mu的结果受batch中其他样本的影响**，这很不应该，因此设置了专门的==Eval mode==（训练是==Train mode==），此时的sigma和mu来自于**之前训练的数据的统计结果**（这样在测试时BN实际上是**线性层**）（但是这就回出现train和eval不匹配的情况，**在数据比较多时影响不大**）（这就引出了layer norm，instance norm，group norm）
+- 这里一个问题是：当进行测试时，按以上策略**计算sigma和mu的结果受batch中其他样本的影响**，这很不应该，因此设置了专门的==Eval mode==（训练是==Train mode==），此时的sigma和mu来自于**之前训练的数据的统计结果**（这样在测试时BN实际上是**线性层**）（但是这就回出现train和eval不匹配的情况，**在数据比较多时影响不大**）
+	- 这就引出了==layer norm==(一个样本所有channel)（用于NLP），==instance norm==（一个样本一个channel），==group norm==（一个样本几个channel）（用于batch size比较小时）
+- 在**输出层之前不需要BN**，因为此时ICS不会造成影响，输入数据可能是多峰分布，强行使用BN会强烈改变数据真实含义，不合理。
+- BN的作用：
+	- 其实BN实质上的意义**不在于减小ICS**
+	- BN的意义在于是**loss landscape光滑了**，简化了优化过程，使梯度更有**预测性**，允许**增加学习率**，提高训练效率
+	- 稳定梯度的尺度，**不会消失或爆炸**
+	- 加入了一定的噪声，**提高泛化能力**
+	- **测试时**0开销，可以和卷积层融合
 
 ### 名词解释
 - ==iteration==：一个batch的一次梯度下降
