@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/程设.md",
-                "mode": "preview",
+                "file": "CS&AI学习/MDPs.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "程设"
+              "title": "MDPs"
             }
           }
         ]
@@ -221,8 +221,8 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
-    "CS&AI学习/CV导.md",
     "CS&AI学习/程设.md",
+    "CS&AI学习/CV导.md",
     "其他课程/国社上.md",
     "CS&AI学习/CS中的数学.md",
     "CS&AI学习/数据结构.md",
