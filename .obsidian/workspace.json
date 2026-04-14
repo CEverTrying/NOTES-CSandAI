@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/CV导.md",
+                "file": "CS&AI学习/程设.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CV导"
+              "title": "程设"
             }
           }
         ]
@@ -221,10 +221,10 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/CV导.md",
     "CS&AI学习/程设.md",
     "其他课程/国社上.md",
     "CS&AI学习/CS中的数学.md",
-    "CS&AI学习/CV导.md",
     "CS&AI学习/数据结构.md",
     "CS&AI学习/人工智能引论.md",
     "CS&AI学习/机器学习.md",
