@@ -24,6 +24,9 @@ MDPs指的是马尔可夫决策过程（Markov Decision Processes）。具有**M
 
 ## The Bellman Equation
 
+主要公式：（其中T(s,a,s')表示从s经过a，转移到s‘的概率，R表示~的概率）
 - $V^*(s)$：从s状态出发，一个智能体可以获得的最好的效益
 - $Q^*(s,a)$：从s状态做动作a，一个智能体可以获得的最好的效益
 - $V^*(s)=max_{a}\{Q^*(s,a)\}$
+- $Q^*(s,a)=\sum_{s'}T(s,a,s')[R(s,a,s')+\gamma V^*(s')]$
+- 可以说Q的最优效用就是未来做最优行为后得到的效用的数学期望
