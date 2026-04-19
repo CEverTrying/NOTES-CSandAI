@@ -247,4 +247,6 @@ Mini-batch SGD
 
 
 
+val，test，train
 
+earlystop
