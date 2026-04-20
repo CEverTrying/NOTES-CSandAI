@@ -31,7 +31,7 @@ MDPs指的是马尔可夫决策过程（Markov Decision Processes）。具有**M
 - $Q^*(s,a)=\sum_{s'}T(s,a,s')[R(s,a,s')+\gamma V^*(s')]$
 - 可以说Q的最优效用就是未来做最优行为后得到的效用的数学期望
 
-## value iteration
+## value iteration（值迭代）
 这是一种计算Q，S的最佳效用的方法，建立于上面的Bellman Equation以及**折扣因子**带来的必然收敛的基础上（证明看cs188的note）。操作流程：
 - **初始化每个状态的价值为0**
 - **循环**：使用BellmanEquation来计算每个状态新一轮的值（等式中的V(s')来源于上一轮的计算）
@@ -39,7 +39,7 @@ MDPs指的是马尔可夫决策过程（Markov Decision Processes）。具有**M
 - 为了便于选取最优的action，同时给一些策略提供信息（*但是没学什么策略*），可以为每个状态储存**各种action对应的最佳Q值**
 - 在上一条的基础上，使用的计算方法和BE略有差别（*但是差别太小而且不复杂，就不写了*）
 
-## policy iteration
+## policy iteration（策略迭代）
 value iteration时间复杂度太高，决策的收敛速度大幅快于Q值的收敛速度。policy iteration的流程：
 - 定义初始化策略，初始化策略越接近最终最优策略，收敛越快
 - 重复：

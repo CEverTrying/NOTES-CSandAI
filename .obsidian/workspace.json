@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/机器学习.md",
-                "mode": "preview",
+                "file": "CS&AI学习/MDPs.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "MDPs"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ecf4caaff0dbfaf",
@@ -221,8 +222,8 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
-    "CS&AI学习/CV导.md",
     "CS&AI学习/机器学习.md",
+    "CS&AI学习/CV导.md",
     "CS&AI学习/面向对象.md",
     "CS&AI学习/~syncthing~机器学习.md.tmp",
     "CS&AI学习/MDPs.md",
