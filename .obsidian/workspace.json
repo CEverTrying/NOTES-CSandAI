@@ -15,7 +15,7 @@
               "state": {
                 "file": "CS&AI学习/CV导.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "CV导"
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ecf4caaff0dbfaf",
