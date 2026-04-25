@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS&AI学习/CV导.md",
-                "mode": "source",
+                "file": "CS&AI学习/机器学习.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CV导"
+              "title": "机器学习"
             }
           }
         ]
@@ -222,15 +222,15 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/CV导.md",
+    "CS&AI学习/机器学习.md",
+    "CS&AI学习/CS中的数学.md",
     "CS&AI学习/image/algo2.jpg",
     "CS&AI学习/人工智能引论笔记/MDPs.md",
-    "CS&AI学习/机器学习.md",
-    "CS&AI学习/CV导.md",
     "CS&AI学习/面向对象.md",
     "CS&AI学习/~syncthing~机器学习.md.tmp",
     "CS&AI学习/程设.md",
     "其他课程/国社上.md",
-    "CS&AI学习/CS中的数学.md",
     "CS&AI学习/数据结构.md",
     "CS&AI学习/人工智能引论.md",
     "CS&AI学习/人工智能引论笔记/CSP(Constraint Satisfaction Problems).md",
@@ -261,7 +261,6 @@
     "CS&AI学习/image/随机排列.png",
     "CS&AI学习/image/屏幕截图 2026-03-05 174344.png",
     "CS&AI学习/image/ds1.png",
-    "CS&AI学习/image/屏幕截图 2026-03-05 000801.png",
     "CPS.md",
     "AI学习/Excalidraw/Drawing 2026-03-02 17.07.38.excalidraw.md",
     "CS&AI学习/Excalidraw/Drawing 2026-03-02 17.41.54.excalidraw.md",
