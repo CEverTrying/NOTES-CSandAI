@@ -11,12 +11,14 @@
             "id": "557c4e628455cb14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CS&AI学习/image/algo2.jpg"
+                "file": "CS&AI学习/CV导.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "algo2"
+              "icon": "lucide-file",
+              "title": "CV导"
             }
           }
         ]
@@ -219,6 +221,7 @@
   },
   "active": "557c4e628455cb14",
   "lastOpenFiles": [
+    "CS&AI学习/image/algo2.jpg",
     "CS&AI学习/人工智能引论笔记/MDPs.md",
     "CS&AI学习/机器学习.md",
     "CS&AI学习/CV导.md",

@@ -250,3 +250,7 @@ Mini-batch SGD
 val，test，train
 
 earlystop
+
+data augmentation(位置，颜色)（强度太高会产生歧义，太弱效果不多）（考虑数据的影响）
+
+正则化
